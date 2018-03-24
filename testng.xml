@@ -3,6 +3,7 @@
     <test name="WishList Test">
         <classes>
             <class name="rozetkaTest.Tests"></class>
+            <class name="rozetkaTest.TestNG_Grouping"></class>
         </classes>
     </test>
 </suite>
