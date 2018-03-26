@@ -2,7 +2,7 @@ package rozetkaTest;
 
 import org.testng.annotations.*;
 
-public class TestNG_Grouping {
+public class GroupingTests {
     @BeforeClass
     public void beforeClass() {
         System.out.println("This method runs before class");

@@ -3,7 +3,7 @@ package rozetkaTest;
 import org.testng.annotations.Test;
 import rozetkaFramework.HomePage;
 
-public class Tests extends TestBase {
+public class SmokeTests extends TestBase {
 
 
     @Test

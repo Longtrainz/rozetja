@@ -2,8 +2,10 @@
 <suite name="WishList TestSuite">
     <test name="WishList Test">
         <classes>
-            <class name="rozetkaTest.Tests"></class>
-            <class name="rozetkaTest.TestNG_Grouping"></class>
+            <class name="rozetkaTest.SmokeTests">
+            </class>
+            <class name="rozetkaTest.GroupingTests">
+            </class>
         </classes>
     </test>
 </suite>
