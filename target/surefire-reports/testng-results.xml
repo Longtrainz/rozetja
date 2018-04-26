@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WishList TestSuite" duration-ms="11794" started-at="2018-03-26T05:47:08Z" finished-at="2018-03-26T05:47:20Z">
+    <groups>
+      <group name="SUV">
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="BMWX3" class="rozetkaTest.TestNG_Grouping"/>
+      </group> <!-- SUV -->
+      <group name="Audi">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="AudiA6" class="rozetkaTest.TestNG_Grouping"/>
+      </group> <!-- Audi -->
+      <group name="BMW">
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="BMW3Series" class="rozetkaTest.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="BMWX3" class="rozetkaTest.TestNG_Grouping"/>
+      </group> <!-- BMW -->
+      <group name="Sedan">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="AudiA6" class="rozetkaTest.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="BMW3Series" class="rozetkaTest.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="HondaAccord" class="rozetkaTest.TestNG_Grouping"/>
+      </group> <!-- Sedan -->
+      <group name="Honda">
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="HondaAccord" class="rozetkaTest.TestNG_Grouping"/>
+      </group> <!-- Honda -->
+    </groups>
+    <test name="WishList Test" duration-ms="11794" started-at="2018-03-26T05:47:08Z" finished-at="2018-03-26T05:47:20Z">
+      <class name="rozetkaTest.TestNG_Grouping">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="AudiA6()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="AudiA6" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AudiA6 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="BMW3Series()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="BMW3Series" duration-ms="1" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMW3Series -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="BMWX3()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="BMWX3" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMWX3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="HondaAccord()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="HondaAccord" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaAccord -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:rozetkaTest.TestNG_Grouping@1936f0f5]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- rozetkaTest.TestNG_Grouping -->
+      <class name="rozetkaTest.Tests">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:rozetkaTest.Tests@6b143ee9]" name="setUpClass" is-config="true" duration-ms="6432" started-at="2018-03-26T08:47:02Z" finished-at="2018-03-26T08:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:rozetkaTest.Tests@6b143ee9]" name="setUp" is-config="true" duration-ms="11698" started-at="2018-03-26T08:47:08Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:rozetkaTest.Tests@6b143ee9]" name="loginTest" duration-ms="33" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:rozetkaTest.Tests@6b143ee9]" name="tearDownClass" is-config="true" duration-ms="1031" started-at="2018-03-26T08:47:20Z" finished-at="2018-03-26T08:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- rozetkaTest.Tests -->
+    </test> <!-- WishList Test -->
+  </suite> <!-- WishList TestSuite -->
+</testng-results>
