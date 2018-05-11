@@ -6,7 +6,7 @@ import rozetkaFramework.HomePage;
 public class SmokeTests extends TestBase {
 
 
-    @Test
+/*    @Test
     public void loginTest() {
         HomePage hp = new HomePage(driver);
         hp.login("test123321@mail.ru","123QWE");
@@ -15,5 +15,5 @@ public class SmokeTests extends TestBase {
         hp.getProdWithMaxReviews();
         hp.addToWishList();
         hp.deleteFromWishList();
-    }
+    }*/
 }

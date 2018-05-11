@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e193145-2c3e-4557-a342-8154698cdc05" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/config.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/rozetkaFramework/HomePage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/rozetkaFramework/Page.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/utils/ConfigProperties.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite/RegressionTesting.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite/RegressionTesting.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite/s Test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite/s Test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite/testng-failed.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/WishList TestSuite/WishList Test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/WishList TestSuite/WishList Test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-rozetkaTest.RegressionTests.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-rozetkaTest.TestNG_Grouping.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-rozetkaTest.Tests.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/RegressionTesting.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/classes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/methods-alphabetical.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/methods-not-run.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/methods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/reporter-output.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/s Test.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/testng.xml.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/TestSuite/toc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/WishList Test.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/classes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/methods-alphabetical.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/methods-not-run.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/methods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/reporter-output.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/testng.xml.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WishList TestSuite/toc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/rozetkaTest/GroupingTests.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/rozetkaTest/RegressionTests.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/rozetkaTest/SmokeTests.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/rozetkaTest/TestBase.class" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/rozetkaTest/SmokeTests.java" afterPath="$PROJECT_DIR$/src/test/java/rozetkaTest/SmokeTests.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,8 +30,8 @@
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="93">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,7 +42,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="-604">
               <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
@@ -130,8 +52,8 @@
       <file leaf-file-name="RegressionTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/RegressionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,12 +61,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rozetkaFramework/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="GroupingTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/GroupingTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
                 <element signature="e#571#572#0" expanded="true" />
@@ -153,17 +87,11 @@
                 <element signature="e#757#758#0" expanded="true" />
                 <element signature="e#830#831#0" expanded="true" />
                 <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1132#1133#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -299,7 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -365,9 +292,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -665,10 +593,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.SmokeTests.loginTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.RegressionTests.googleTest" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.GroupingTests.BMW3Series" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.RegressionTests.Google" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.RegressionTests.openPageTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.RegressionTests.openPageTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.RegressionTests.googleTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.GroupingTests.BMW3Series" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.RegressionTests.Google" />
       </list>
     </recent_temporary>
   </component>
@@ -728,18 +656,25 @@
       <option name="project" value="LOCAL" />
       <updated>1522055901529</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="gitignore">
+      <created>1524746625550</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524746625550</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RegressionTests_googleTest - 2018.03.24 at 16h 41m 10s.xml">
-      <configuration name="RegressionTests.googleTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="RegressionTests_googleTest - 2018.03.24 at 16h 42m 18s.xml">
       <configuration name="RegressionTests.googleTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="RegressionTests_googleTest - 2018.03.24 at 16h 43m 27s.xml">
       <configuration name="RegressionTests.googleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RegressionTests_openPageTest - 2018.05.11 at 11h 09m 28s.xml">
+      <configuration name="RegressionTests.openPageTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SmokeTests_loginTest - 2018.04.26 at 15h 35m 04s.xml">
       <configuration name="SmokeTests.loginTest" configurationId="TestNG" />
@@ -765,6 +700,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -774,18 +710,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124200426" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3430736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21162046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21375267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -803,7 +739,8 @@
     <MESSAGE value="3rd commit" />
     <MESSAGE value="testng.xml added test class" />
     <MESSAGE value="package xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="package xml" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1113,13 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rozetkaFramework/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="117" column="12" lean-forward="false" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/8-TestNG-Grouping.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/annotations/Test.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1136,18 +1066,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regression2.xml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-604">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regression.xml">
+    <entry file="file://$PROJECT_DIR$/regression2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1160,11 +1097,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/GroupingTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#508#509#0" expanded="true" />
             <element signature="e#571#572#0" expanded="true" />
@@ -1173,43 +1120,39 @@
             <element signature="e#757#758#0" expanded="true" />
             <element signature="e#830#831#0" expanded="true" />
             <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/RegressionTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="93">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rozetkaFramework/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rozetkaTest/RegressionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
