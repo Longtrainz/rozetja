@@ -6,7 +6,7 @@
             </class>
         </classes>-->
         <packages>
-            <package name="rozetkaTest"/>
+            <package name="rozetkaTest.RegressionTests"/>
         </packages>
     </test>
 </suite>
