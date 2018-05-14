@@ -1,12 +1,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="TestSuite">
     <test name="s Test">
-        <!--<classes>
+        <packages>
+            <package name="rozetkaTest"/>
+        </packages>
+        <classes>
             <class name="rozetkaTest.RegressionTests">
             </class>
-        </classes>-->
-        <packages>
-            <package name="rozetkaTest.RegressionTests"/>
-        </packages>
+        </classes>
+
     </test>
 </suite>
