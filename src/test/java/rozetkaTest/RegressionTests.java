@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 public class RegressionTests extends TestBase {
 
 
-    @Test(priority = 1)
+/*    @Test(priority = 1)
     public void openPageTest() {
         HomePage hp = new HomePage(driver);
         hp.login("test123321@mail.ru","123QWE");
@@ -29,5 +29,5 @@ public class RegressionTests extends TestBase {
     public void yandexTest() {
         /// /driver.get("https://yandex.ua/");
         System.out.println("yandex");
-    }
+    }*/
 }

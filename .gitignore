@@ -7,3 +7,14 @@
 *.iml
 out
 gen
+
+target/generated-sources/
+target/generated-test-sources/
+target/maven-archiver/
+target/rozetka-1.0-SNAPSHOT.jar
+target/surefire-reports/TEST-rozetkaTest.TestBase.xml
+target/surefire-reports/old/rozetkaTest.TestBase/
+target/surefire-reports/rozetkaTest.TestBase.txt
+target/surefire-reports/rozetkaTest.TestBase/
+target/test-classes/jmeter.properties
+target/test-classes/loadTests/

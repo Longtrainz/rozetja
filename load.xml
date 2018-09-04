@@ -6,7 +6,7 @@
             </class>
         </classes>-->
         <packages>
-            <package name="loadTests"/>
+            <package name="jmeter"/>
         </packages>
     </test>
 </suite>

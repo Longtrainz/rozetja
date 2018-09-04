@@ -36,6 +36,11 @@
             <artifactId>log4j-core</artifactId>
             <version>2.9.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.jmeter</groupId>
+            <artifactId>ApacheJMeter_core</artifactId>
+            <version>4.0</version>
+        </dependency>
     </dependencies>
 
 
@@ -138,6 +143,43 @@
                             <executions>
                                 <execution>
                                     <id>jmeter-tests</id>
+                                    <goals>
+                                        <goal>jmeter</goal>
+                                    </goals>
+                                </execution>
+                                <execution>
+                                    <id>jmeter-check-results</id>
+                                    <goals>
+                                        <goal>results</goal>
+                                    </goals>
+                                </execution>
+                            </executions>
+                        </plugin>
+                    </plugins>
+                </pluginManagement>
+            </build>
+        </profile>
+
+
+        <profile>
+            <id>Load3</id>
+            <build>
+                <pluginManagement>
+                    <plugins>
+                        <!--Running single test-->
+                        <plugin>
+                            <groupId>com.lazerycode.jmeter</groupId>
+                            <artifactId>jmeter-maven-plugin</artifactId>
+                            <version>LATEST</version>
+                            <configuration>
+                                <suiteXmlFiles>
+                                    <suiteXmlFile>load.xml</suiteXmlFile>
+                                </suiteXmlFiles>
+                            </configuration>
+                            <executions>
+                                <execution>
+                                    <id>jmeter-tests</id>
+                                    <phase>verify</phase>
                                     <goals>
                                         <goal>jmeter</goal>
                                     </goals>
