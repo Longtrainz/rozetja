@@ -21,7 +21,7 @@ public class TestBase {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().pageLoadTimeout(100, TimeUnit.SECONDS);
-        driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(9, TimeUnit.SECONDS);
     }
 
     @BeforeTest
